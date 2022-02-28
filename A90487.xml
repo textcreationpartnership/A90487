@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect relation of the memorable funerall of the Right Honourable Robert Earle of Essex, wherein divers things are explained, which were not understood by many of the spectators. Also, the manner of the imbalming and the inscription written upon his breast, and buried with his body; and the finding of a crosier staffe in digging of the vault.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90487</idno>
+            <idno type="STC">Wing P1512</idno>
+            <idno type="STC">Thomason E358_16</idno>
+            <idno type="STC">ESTC R201161</idno>
+            <idno type="EEBO-CITATION">99861709</idno>
+            <idno type="PROQUEST">99861709</idno>
+            <idno type="VID">160005</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90487)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160005)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E358[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect relation of the memorable funerall of the Right Honourable Robert Earle of Essex, wherein divers things are explained, which were not understood by many of the spectators. Also, the manner of the imbalming and the inscription written upon his breast, and buried with his body; and the finding of a crosier staffe in digging of the vault.</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette.</note>
+                  <note>Annotation on Thomason copy: "Octo: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646 --  Death and burial --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160005:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 103 -->
+            <p>A PERFECT RELATION OF The memorable Funerall of the Right Honourable <hi>Robert</hi> Earle of <hi>Eſsex;</hi> whereto divers things are explai<g ref="char:EOLhyphen"/>ned, which were not underſtood by many of the Spectators. Alſo, the manner of his imba<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing, and the inſcription writ<g ref="char:EOLhyphen"/>ten upon his breaſt, and buried with his body; and the finding of a Croſier Staffe in digging of the Vault.</p>
+            <figure/>
+            <p>
+               <hi>London</hi> Printed for B. A. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160005:2"/>
+            <!-- PDF PAGE 104 -->
+            <pb facs="tcp:160005:2"/>
+            <!-- PDF PAGE 104 -->
+            <head>A RELATION OF The Manner of the Funerall of the Right Honourable, <hi>Robert Devoreux</hi> Earl of <hi>Eſſex,</hi> late Lord Generall of the Army raiſed for defence of King, Parliament, and Kingdome.</head>
+            <p>MVnday laſt was five weekes the Right Ho<g ref="char:EOLhyphen"/>nourable <hi>Robert</hi> Earl of <hi>Eſſex</hi> departed this life; and in acknowledgment of the good and faithfull ſervice to the Publique, and ho<g ref="char:EOLhyphen"/>nour of his Perſon and Name, It pleaſed the Parlia<g ref="char:EOLhyphen"/>ment to allot a large ſumme of money (beſides what was left by the Deceaſed) towards the honourable Buriall of the ſaid Earle, and voted that the vhole
+<pb facs="tcp:160005:3"/>
+               <!-- PDF PAGE 105 -->Houſe ſhould attend at his Funerall Rites. Great pre<g ref="char:EOLhyphen"/>parations was then made for all kind of accommoda<g ref="char:EOLhyphen"/>tions befitting ſuch a Solemnity: Firſt, his Corpes was put in a Sere cloth, and afterwards incloſed in Lead; upon which was his Armes caſt or engraver, and an Inſcription, wherein his Titles were ſet forth, and the time of his death in this wiſe.</p>
+            <q>Robert Devoreux Earl of Eſſex, and Ewe, Viſcount Hereford, Lord Peirers of Chart<g ref="char:EOLhyphen"/>ley Bourchier, and Lovain, Lord Generall of all the Parliaments Force, Dyed on the <hi>16.</hi> of <hi>Septemb. 1646.</hi>
+            </q>
+            <p>Then were moſt of the Herrolds Painters in <hi>Lon<g ref="char:EOLhyphen"/>don</hi> employed to make Banners, Scutchions, Flagges, Streames, &amp;c. and an exceeding great quantity of mourning prepared; And in the great Chamber in his Excellencies houſe was ſet up a Hearſe covered with black Pluſh or Velvet; on which was laid the Statu of the ſaid Earle, having a paire of white Boots, skarlet Breeches, a Buff Coat (the ſame as he wore at Edge-hill fight) with his Parliament Robes, a Sword by his ſide, a Commanders Staffe in his hand, and an Earles Coronet on his head; the roome was hanged with Broad-cloth, and adorned with Scutchions, as was alſo the Hearſe with his Armes, Colours, Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ners, and the like; All which remained divers dayes together in great ſtate, and a great number of People reſorted thither to behold it.</p>
+            <pb facs="tcp:160005:3"/>
+            <!-- PDF PAGE 105 -->
+            <p>And as theſe preparations were in his Houſe; ſo was there the like in the Abby at VVeſtminſter: for at the upper end of the Church where the Commu<g ref="char:EOLhyphen"/>nion Table ſtood, was erected a Hearſe, which was made four ſquare, ſtanding on large Pillars, about 12. foot high; the edges are guilt with gold, and hung round about with Velvet, And on the top of the Hearſe a rich Coronet, and foure ſmall Coronets up<g ref="char:EOLhyphen"/>on the Supporters, the velvet being gallantly ſet forth with his Armes, quartered ſeverall Scutchions, Ban<g ref="char:EOLhyphen"/>ners, Mottoes, and the like; the Pavements covered with cloth, and the long Seates or Benches covered; The Abby Church from the Belfrey to the upper and hung with black, and decked with ſcutchions, a rich Pulpit cloath, and ſeverall other things, which are needleſſe to be related: Yet before we come to the ſolemnity it ſelf, give me leave to cary your thoughts and ſpectation a little further, <hi>viz.</hi> to the place where the Corpes of this noble Earle reſts.</p>
+            <p>In a Roome called St. <hi>Iohn Baptiſts</hi> Chappell, a lit<g ref="char:EOLhyphen"/>tle before you go up into <hi>Henry</hi> the 7 Chappell, as you turn in on the right hand of the Chappel was the earth broken, to make a Vault for a buriall place for his Excellency: in which place had been buried <hi>Bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on</hi> Abbot of VVeſtminſter, who (as I take it) dyed <hi>tem<g ref="char:EOLhyphen"/>per R.</hi> 2. And as the manner was to put in the Graue with them a Croſtier ſtaffe; ſo was it by this occa<g ref="char:EOLhyphen"/>ſion digged up again, which although it is but wood, yet one end thereof feeles hard, and appears ſound: VVee doe no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> recite this, as though we conceived any vertue in it more then in another piece of wood; but the cauſe that it continued ſo long was doubtleſſe drineſſe of the place in which it lay, and if any one doubt hereof, they may ſee it.</p>
+            <pb facs="tcp:160005:4"/>
+            <!-- PDF PAGE 106 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:160005:4"/>
+            <!-- PDF PAGE 106 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:160005:5"/>
+            <!-- PDF PAGE 107 -->
+            <p>But not to digreſſe any longer, let us return again to what we have in hand, and give you a view of the Vault prepared in the place aforeſaid, which is about two yards and a halfe in length, a yard and half broad, and height proportionable arched over with Free<g ref="char:EOLhyphen"/>ſtone, and in the next Vault to him lyes the Lord <hi>Hundſdon.</hi> It is ſaid a ſtately Monument will be ere<g ref="char:EOLhyphen"/>cted for him in that place.</p>
+            <p>VVe will in the next place proceed to the Solem<g ref="char:EOLhyphen"/>nity of the Funerall it ſelf, which was on this manner</p>
+         </div>
+         <div type="part">
+            <head>The Solemnity of the Funerall Rites.</head>
+            <p>On Thurſday the 24. of this inſtant. <hi>October</hi> about one of the clock in the afternoone, the red Regiment of <hi>VVeſtminſter,</hi> the Regiments of <hi>Southwarke,</hi> the Re<g ref="char:EOLhyphen"/>giment of <hi>Hamblets.</hi> the 6 Regiments of the Cit<g ref="char:EOLhyphen"/>ty of <hi>London</hi> met in the ſtrand, and Colonell <hi>Man<g ref="char:EOLhyphen"/>werings</hi> Regiment of horſe, conſiſting of 6 Troops marched to the broad place againſt white-Hall, All the Regiments of foot (except the blow and red Regi<g ref="char:EOLhyphen"/>ment of the Cittie) ſtood along the ſtreet from <hi>Eſſex</hi> Houſe in the ſtrand, to weſtminſter, and preſently af<g ref="char:EOLhyphen"/>ter two of the clock, the horſe began to march to<g ref="char:EOLhyphen"/>wards the Abby weſtminſter, there walking by them threeſcore and ten poor mourners (or Gown men) and after them 12 Almemen belonging to the Church.</p>
+            <p>Then came the blew Regiment of the City (that were with his Excellency at Ne<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gbury fight, and after them the Red of the City, before whom there went many of the Parliaments <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ens ſervants Mourners.</p>
+            <p>Next unto the the red Regiment came by eſtimation about 800. Collonels. Lieutenant Collon is, Majors. Captains, Reform does, and Gentlemen every one traſing of a Pike,
+<pb facs="tcp:160005:5"/>
+               <!-- PDF PAGE 107 -->and Sir William Waller brought up the reare.</p>
+            <p>After theſe marched Collonel Tompſon bearing his own Banner in cloſe mourning, having a Gowne, with a Hood that came over his head, and part of his face, with his Horſe led after him, covered from head to tayle with black cloth, which came almoſt to the ground, and on his head a ſtately ſether and a great ſprig ſtanding upright on his Rump and after him went Sir William Be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fore, Sir Samuel Luke and others with mourning Gowns, in manner as afore ſaid, and their Horſes in like manner; carrying Banners.</p>
+            <p>Then was carryed his Excellencies Spurs and other Em<g ref="char:EOLhyphen"/>blems of Honour as alſo the Kings of Herrolds went along with his ſeveral Coates of Armes, after w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich went a great many of his Excellencies chiefeſt Domeſtick atten<g ref="char:EOLhyphen"/>dance and immediately after them was drawne a rich Charret with 6. ſtately Horſes, with great plums of fea<g ref="char:EOLhyphen"/>thers, and all covered with velvet, the Coach-men and Foote-men having velvet Caſſits, and in the Charret lay the Statu of his Excellency, ſet forth to the life, to the open view of all the beholders in the garbe before declared, and at his head ſate one cloſe mourner and at his feete ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>This Charret was honorably attended by the Earle of Warwick Pembroke, Earle of Northumberland, and the reſt of the Honourable Houſe of Peiers in long mourning, having their raynes carried up in great ſtate, the Members of the Houſe of Commons followed afte; the Speaker having the Maſe carried before him and every one walking in a ſolemn poſture as befitted the occaſion and after them many Aldermen of the City and Aſſembly of Divines.</p>
+            <p>When they came to the Abby Church the ſtatu before mentioned was carried in, and is layd upon the ſtanding Hearſe in the Church before mentioned, where it is to re<g ref="char:EOLhyphen"/>maine during the pleaſure of the Houſe or as many dayes as was from his Excellencies death to the time of his buri<g ref="char:EOLhyphen"/>al, and afterwards is to be ſet up in a preſſe. Mr. Vines preach<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:160005:6"/>
+               <!-- PDF PAGE 108 -->the Funerall Sermon<g ref="char:punc">▪</g> having now given you a perfect relation of the memorable rits performed at the entering of this Honourable Earle, let the Mules joyne in framing an Epetapth which may declare to future ages, the worth and heroick Acts of his Excellency in the entering to enlarge his memory, let us borrow ſomething from famous Drayton.</p>
+            <q>
+               <lg>
+                  <head>An Epitaph.</head>
+                  <l>Doe poliſht Marble let thy Readers know</l>
+                  <l>VVhat they and what their Children owe</l>
+                  <l>To <hi>Eſſex</hi> Name, whoſe honoured duſt</l>
+                  <l>VVe recommend unto thy truſt;</l>
+                  <l>Protect his Memory, preſerve his Story,</l>
+                  <l>Remaine a laſting Monument of his glory;</l>
+                  <l>And when the ruines ſhall diſclaime</l>
+                  <l>To be the Treaſurer of his Name;</l>
+                  <l>His Name that cannot fade ſhall be</l>
+                  <l>An everlaſting Monument to thee.</l>
+               </lg>
+            </q>
+         </div>
+      </body>
+   </text>
+</TEI>
